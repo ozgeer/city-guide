@@ -1,0 +1,33 @@
+/* css de . sınıf anlamına geliyor.*/
+
+body{
+    background-color: #E6E6FA;
+    font-family: monospace
+    ;
+}
+h1{
+    ;
+    font-size: 35px;
+    color: #5F9EA0 ;
+}
+.text-color {
+    color:#6B8E23;
+}
+.box{
+    font-size: 20px;;
+}
+.fs-small{
+    font-size: 30px;
+}
+
+.back{
+    background-color: seashell;
+}
+.blue{
+    color:#000080;
+}
+.sizes{
+    list-style-position: inside;
+    list-style-type:square;
+}
+
